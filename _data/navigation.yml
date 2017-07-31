@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "About me"
-    url: https://rafaelkuffner.github.io/
+    url: \#aboutme
   - title: "Projects"
-    url: https://rafaelkuffner.github.io/
+    url: \#projects
+  - title: "Media"
+    url: \#media
   - title: "Publications"
-    url: https://rafaelkuffner.github.io/
-  - title: "Contacts"
-    url: https://rafaelkuffner.github.io/
+    url: \#publications
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
