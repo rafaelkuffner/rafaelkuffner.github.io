@@ -4,10 +4,12 @@ main:
     url: \#aboutme
   - title: "Projects"
     url: \#projects
-  - title: "Media"
-    url: \#media
+  - title: "Teaching"
+    url: \#teaching
   - title: "Publications"
     url: \#publications
+  - title: "Contacts"
+    url: \#contacts
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
